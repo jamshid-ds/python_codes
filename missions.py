@@ -1,5 +1,11 @@
 # Jamshid Ahmadov
 
+#this file is not created for any purpose. this file is a collection of small pieces of code. just for myself
+#this file is not created for any purpose. this file is a collection of small pieces of code. just for myself
+#this file is not created for any purpose. this file is a collection of small pieces of code. just for myself
+#this file is not created for any purpose. this file is a collection of small pieces of code. just for myself
+
+
 # a = int(input("Birinchi qayiqning tezligini kiriting(km/s):"))
 # b = int(input("Ikkinchi qayiqning tezligini kiriting(km/s):"))
 # s = 400
