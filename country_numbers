@@ -1,0 +1,16 @@
+import phonenumbers
+from phonenumbers import geocoder
+tests = int(input())
+try:
+    for g in range(tests):
+        try:
+            phonenumbers_1 = phonenumbers.parse(input())
+        except:
+            print("ERROR")
+            break
+        try:
+            print(geocoder.description_for_number(phonenumbers_1,"en"));
+        except:
+            print("ERROR")
+except:
+    print("ERROR")
